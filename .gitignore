@@ -1,0 +1,6 @@
+*.exe
+*.dsym
+main
+.idea
+.vscode
+Folder.DotSettings.user
